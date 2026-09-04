@@ -63,16 +63,6 @@
 
 ---
 
-## 📈 Gráfico de Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielldunder-beep&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
 ## 🐍 Contribuições — Contribution Snake
 
 <div align="center">

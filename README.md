@@ -1,40 +1,57 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+em+constru%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo;Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
-</p>
+# Gabriel
 
----
+**Desenvolvedor de Software**
 
-### 🚀 Sobre mim
+<br>
 
-- 🔭 Atualmente trabalhando em: **...**
-- 🌱 Atualmente aprendendo: **...**
-- 👯 Tenho interesse em colaborar em: **...**
-- 💬 Pergunte-me sobre: **...**
-- ⚡ Fato curioso: **...**
+</div>
 
 ---
 
-### 🛠️ Tecnologias e ferramentas
+## 📌 Sobre
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,react,nodejs,git,github,vscode" />
-</p>
+Estudante e desenvolvedor em formação, focado em construir soluções sólidas e aprender continuamente novas tecnologias.
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielldunder-beep&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielldunder-beep&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielldunder-beep&theme=tokyonight&hide_border=true" />
-</p>
+| | |
+|---|---|
+| 🔭 **Trabalhando em** | ... |
+| 🌱 **Aprendendo** | ... |
+| 🎯 **Objetivo atual** | ... |
+| 💬 **Assunto favorito** | ... |
 
 ---
 
-<p align="center"><i>Perfil em constante evolução — sempre em busca de novos desafios.</i></p>
+## 🧰 Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Atividade
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielldunder-beep&show_icons=true&theme=default&hide_border=true&hide_title=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Este perfil está em constante atualização.*
+
+</div>

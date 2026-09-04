@@ -39,36 +39,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielldunder-beep&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielldunder-beep&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=gabrielldunder-beep&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielldunder-beep&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
 ## 🐍 Contribuições — Contribution Snake
 
 <div align="center">
